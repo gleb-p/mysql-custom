@@ -1,3 +1,4 @@
 [mysqld]
 stored_program_cache = 524288
+log_bin = OFF
 
